@@ -83,12 +83,3 @@
   (if (< (count args) 2)
     (log/error "This application requires at least two arguments")
     (apply process args)))
-
-
-
-
-
-
-
-
-
