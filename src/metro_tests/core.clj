@@ -62,8 +62,8 @@
           c (calc-side a b alpha)
           beta (calc-angle b c a)
           gamma (calc-angle c a b)]
-      { :angles (str a ";" b ";" c "\n") 
-        :sides (str alpha ";" beta ";" gamma "\n")})
+      { :sides (str a ";" b ";" c "\n") 
+        :angles (str alpha ";" beta ";" gamma "\n")})
     (catch Exception e
       (log/error (.getMessage e) "at index" idx))))
 
