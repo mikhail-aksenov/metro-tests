@@ -1,0 +1,9 @@
+Баскаков Артем|https://github.com/artem-baskakov/MiKPO|y|n
+Боев Юрий|https://github.com/TALSTI/MiKPO|y|y
+Браун Дмитрий|https://github.com/braundmitry/MIKPO|y|y
+Ветошкин Евгений|https://github.com/vetoshkineugene/MIKPO|y|n?
+Ветошкина Людмила|https://github.com/vetoshkina/mikpo|y|n?
+Винник Павел|https://github.com/paVVin/MiKPO|y|y
+Муравьев Игорь|https://github.com/imuravev/mikpo|y|y
+Соколова Ангелина|https://github.com/Marronie/mikpo|y|n
+Хандюков Дмитрий|https://github.com/DKhandyukov/mikpo|n|y!
